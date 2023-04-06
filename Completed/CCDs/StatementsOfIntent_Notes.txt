@@ -1,0 +1,12 @@
+What is the aim of the experiment?
+The aim of the experiment is to familiarise the student with the function of a CCD for spectroscopy. This is done by comparing the spectrum of an arc lamp to reference values.
+
+What measurements will be made and how?
+Measure the readnoise and gain for the CCD
+Spectrum of the arc lamp to calobrate spectrograph
+
+How will the final resuilt be obtained from the experimental data?
+The arc spectrum will be plotted and compared to known wavelengths
+
+What are the amin safety conerns with the experiment and precautions that should be taken?
+Working with electronics and delicate equipment so care and precision is needed.

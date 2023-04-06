@@ -1,0 +1,309 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{geosci}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d75f55b548b7cd1cc4d20bd11d1d710f}{%
+           family={Developers},
+           familyi={D\bibinitperiod},
+           given={GeoSci},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d75f55b548b7cd1cc4d20bd11d1d710f}
+      \strng{fullhash}{d75f55b548b7cd1cc4d20bd11d1d710f}
+      \strng{bibnamehash}{d75f55b548b7cd1cc4d20bd11d1d710f}
+      \strng{authorbibnamehash}{d75f55b548b7cd1cc4d20bd11d1d710f}
+      \strng{authornamehash}{d75f55b548b7cd1cc4d20bd11d1d710f}
+      \strng{authorfullhash}{d75f55b548b7cd1cc4d20bd11d1d710f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Attenuation and Skin Depth}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://em.geosci.xyz/content/maxwell1_fundamentals/harmonic_planewaves_homogeneous/skindepth.html
+      \endverb
+      \verb{url}
+      \verb https://em.geosci.xyz/content/maxwell1_fundamentals/harmonic_planewaves_homogeneous/skindepth.html
+      \endverb
+    \endentry
+    \entry{hyperPhysics}{online}{}
+      \name{author}{1}{}{%
+        {{hash=309e685016c26855bf98ee5951be1afe}{%
+           family={Nave},
+           familyi={N\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{309e685016c26855bf98ee5951be1afe}
+      \strng{fullhash}{309e685016c26855bf98ee5951be1afe}
+      \strng{bibnamehash}{309e685016c26855bf98ee5951be1afe}
+      \strng{authorbibnamehash}{309e685016c26855bf98ee5951be1afe}
+      \strng{authornamehash}{309e685016c26855bf98ee5951be1afe}
+      \strng{authorfullhash}{309e685016c26855bf98ee5951be1afe}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{10}
+      \field{title}{Skin Effect in AC Conduction}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://hyperphysics.phy-astr.gsu.edu/hbase/electric/skineffect.html
+      \endverb
+      \verb{url}
+      \verb http://hyperphysics.phy-astr.gsu.edu/hbase/electric/skineffect.html
+      \endverb
+    \endentry
+    \entry{jackson}{book}{}
+      \name{author}{1}{}{%
+        {{hash=131f625afef5cfa6aaa4cc4202974a89}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {London;New York;}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{131f625afef5cfa6aaa4cc4202974a89}
+      \strng{fullhash}{131f625afef5cfa6aaa4cc4202974a89}
+      \strng{bibnamehash}{131f625afef5cfa6aaa4cc4202974a89}
+      \strng{authorbibnamehash}{131f625afef5cfa6aaa4cc4202974a89}
+      \strng{authornamehash}{131f625afef5cfa6aaa4cc4202974a89}
+      \strng{authorfullhash}{131f625afef5cfa6aaa4cc4202974a89}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Classical electrodynamics}
+      \field{year}{1962}
+      \keyw{Electrodynamics}
+    \endentry
+    \entry{manual}{article}{}
+      \name{author}{2}{}{%
+        {{hash=28eecc87d506db58e19d9e058cd8b683}{%
+           family={Wiederick},
+           familyi={W\bibinitperiod},
+           given={H.\bibnamedelimi D.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=56c0bed01e8f2d51aeb6ebe54f43296f}{%
+           family={Gauthier},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{bb34461b2a660b63d45cfaecf125c080}
+      \strng{fullhash}{bb34461b2a660b63d45cfaecf125c080}
+      \strng{bibnamehash}{bb34461b2a660b63d45cfaecf125c080}
+      \strng{authorbibnamehash}{bb34461b2a660b63d45cfaecf125c080}
+      \strng{authornamehash}{bb34461b2a660b63d45cfaecf125c080}
+      \strng{authorfullhash}{bb34461b2a660b63d45cfaecf125c080}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0002-9505}
+      \field{journaltitle}{American journal of physics}
+      \field{number}{2}
+      \field{title}{Frequency dependence of the skin depth in a metal cylinder}
+      \field{volume}{51}
+      \field{year}{1983}
+      \field{pages}{175\bibrangedash 176}
+      \range{pages}{2}
+      \keyw{Education & Educational Research; Education,Scientific Disciplines; Physical Sciences; Physics; Physics,Multidisciplinary; Science & Technology; Social Sciences}
+    \endentry
+    \entry{steel}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7673c96c28f17ee3ef6cce4a1ea29372}{%
+           family={Toolbox},
+           familyi={T\bibinitperiod},
+           given={Engineering},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{7673c96c28f17ee3ef6cce4a1ea29372}
+      \strng{fullhash}{7673c96c28f17ee3ef6cce4a1ea29372}
+      \strng{bibnamehash}{7673c96c28f17ee3ef6cce4a1ea29372}
+      \strng{authorbibnamehash}{7673c96c28f17ee3ef6cce4a1ea29372}
+      \strng{authornamehash}{7673c96c28f17ee3ef6cce4a1ea29372}
+      \strng{authorfullhash}{7673c96c28f17ee3ef6cce4a1ea29372}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Permeability}
+      \field{urlday}{3}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.engineeringtoolbox.com/permeability-d_1923.html
+      \endverb
+      \verb{url}
+      \verb https://www.engineeringtoolbox.com/permeability-d_1923.html
+      \endverb
+    \endentry
+    \entry{conductivityCopper}{online}{}
+      \name{author}{1}{}{%
+        {{hash=472d1d71457c52f144d199a3d3aeb887}{%
+           family={Calcutt},
+           familyi={C\bibinitperiod},
+           given={Vin},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{472d1d71457c52f144d199a3d3aeb887}
+      \strng{fullhash}{472d1d71457c52f144d199a3d3aeb887}
+      \strng{bibnamehash}{472d1d71457c52f144d199a3d3aeb887}
+      \strng{authorbibnamehash}{472d1d71457c52f144d199a3d3aeb887}
+      \strng{authornamehash}{472d1d71457c52f144d199a3d3aeb887}
+      \strng{authorfullhash}{472d1d71457c52f144d199a3d3aeb887}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{Introduction to Copper}
+      \field{urlday}{3}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.copper.org/publications/newsletters/innovations/2001/08/intro_fac.html
+      \endverb
+      \verb{url}
+      \verb https://www.copper.org/publications/newsletters/innovations/2001/08/intro_fac.html
+      \endverb
+    \endentry
+    \entry{iowa}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9f5d7bf5ec5582d6c8440c919e367514}{%
+           family={Iowa\bibnamedelimb State\bibnamedelima University},
+           familyi={I\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim U\bibinitperiod},
+           given={Center\bibnamedelimb for\bibnamedelimb Non-Destructive\bibnamedelima Evaluation},
+           giveni={C\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim N\bibinithyphendelim D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f5d7bf5ec5582d6c8440c919e367514}
+      \strng{fullhash}{9f5d7bf5ec5582d6c8440c919e367514}
+      \strng{bibnamehash}{9f5d7bf5ec5582d6c8440c919e367514}
+      \strng{authorbibnamehash}{9f5d7bf5ec5582d6c8440c919e367514}
+      \strng{authornamehash}{9f5d7bf5ec5582d6c8440c919e367514}
+      \strng{authorfullhash}{9f5d7bf5ec5582d6c8440c919e367514}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electrical Conductivity and Resistivity for Aluminum and Aluminum Alloys}
+      \field{urlday}{3}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nde-ed.org/NDETechniques/EddyCurrent/ET_Tables/ET_matlprop_Aluminum.xhtml
+      \endverb
+      \verb{url}
+      \verb https://www.nde-ed.org/NDETechniques/EddyCurrent/ET_Tables/ET_matlprop_Aluminum.xhtml
+      \endverb
+    \endentry
+    \entry{conductivityBrass}{online}{}
+      \name{author}{1}{}{%
+        {{hash=50720d7e799f78ffb21520a9afb05829}{%
+           family={Properties},
+           familyi={P\bibinitperiod},
+           given={Material},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{50720d7e799f78ffb21520a9afb05829}
+      \strng{fullhash}{50720d7e799f78ffb21520a9afb05829}
+      \strng{bibnamehash}{50720d7e799f78ffb21520a9afb05829}
+      \strng{authorbibnamehash}{50720d7e799f78ffb21520a9afb05829}
+      \strng{authornamehash}{50720d7e799f78ffb21520a9afb05829}
+      \strng{authorfullhash}{50720d7e799f78ffb21520a9afb05829}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is the Electrical Conductivity of Brass}
+      \field{urlday}{3}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://material-properties.org/what-is-electrical-conductivity-of-brass-definition/
+      \endverb
+      \verb{url}
+      \verb https://material-properties.org/what-is-electrical-conductivity-of-brass-definition/
+      \endverb
+    \endentry
+    \entry{conductivity}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b298b3b0a2cee22f2169416e2c16a9b2}{%
+           family={Helmenstine},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b298b3b0a2cee22f2169416e2c16a9b2}
+      \strng{fullhash}{b298b3b0a2cee22f2169416e2c16a9b2}
+      \strng{bibnamehash}{b298b3b0a2cee22f2169416e2c16a9b2}
+      \strng{authorbibnamehash}{b298b3b0a2cee22f2169416e2c16a9b2}
+      \strng{authornamehash}{b298b3b0a2cee22f2169416e2c16a9b2}
+      \strng{authorfullhash}{b298b3b0a2cee22f2169416e2c16a9b2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{6}
+      \field{title}{Table of Electrical Resistivity and Conductivity}
+      \field{urlday}{3}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.thoughtco.com/table-of-electrical-resistivity-conductivity-608499
+      \endverb
+      \verb{url}
+      \verb https://www.thoughtco.com/table-of-electrical-resistivity-conductivity-608499
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

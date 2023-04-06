@@ -1,0 +1,137 @@
+%apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+%Control: key (0)
+%Control: author (8) initials jnrlst
+%Control: editor formatted (1) identically to author
+%Control: production of article title (0) allowed
+%Control: page (0) single
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{9}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \enquote  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{https://doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{man()}]{manual1}%
+  \BibitemOpen
+  \href@noop {} {\emph {\bibinfo {title} {Compton Scattering Experiment}}},\
+  \bibinfo {organization} {{UCD} School of Physics}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kuroda}\ \emph {et~al.}(2011)\citenamefont {Kuroda},
+  \citenamefont {Toyokawa}, \citenamefont {Yasumoto}, \citenamefont
+  {Ikeura-Sekiguchi}, \citenamefont {Koike}, \citenamefont {Yamada},
+  \citenamefont {Yanagida}, \citenamefont {Nakajyo}, \citenamefont {Sakai},\
+  and\ \citenamefont {Mori}}]{KURODA2011S183}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Kuroda}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Toyokawa}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Yasumoto}}, \bibinfo
+  {author} {\bibfnamefont {H.}~\bibnamefont {Ikeura-Sekiguchi}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Koike}}, \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Yamada}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Yanagida}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Nakajyo}}, \bibinfo {author} {\bibfnamefont
+  {F.}~\bibnamefont {Sakai}},\ and\ \bibinfo {author} {\bibfnamefont
+  {K.}~\bibnamefont {Mori}},\ }\bibfield  {title} {\bibinfo {title}
+  {Quasi-monochromatic hard x-ray source via laser compton scattering and its
+  application},\ }\href
+  {https://doi.org/https://doi.org/10.1016/j.nima.2010.04.001} {\bibfield
+  {journal} {\bibinfo  {journal} {Nuclear Instruments and Methods in Physics
+  Research Section A: Accelerators, Spectrometers, Detectors and Associated
+  Equipment}\ }\textbf {\bibinfo {volume} {637}},\ \bibinfo {pages} {S183}
+  (\bibinfo {year} {2011})},\ \bibinfo {note} {the International Workshop on
+  Ultra-short Electron and Photon Beams: Techniques and
+  Applications}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Harding}(1997)}]{harding}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Harding}},\ }\bibfield  {title} {\bibinfo {title} {Inelastic photon
+  scattering: Effects and applications in biomedical science and industry},\
+  }\href {https://doi.org/https://doi.org/10.1016/S0969-806X(97)00026-1}
+  {\bibfield  {journal} {\bibinfo  {journal} {Radiation Physics and Chemistry}\
+  }\textbf {\bibinfo {volume} {50}},\ \bibinfo {pages} {91} (\bibinfo {year}
+  {1997})},\ \bibinfo {note} {inelastic Scattering of X-Rays and Gamma
+  Rays}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Tortosa}(2018)}]{alessia}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Tortosa}},\ }\emph {\bibinfo {title} {{Comptonization mechanisms in hot
+  coronae in AGN. The NuSTAR view.}}},\ \href@noop {} {Ph.D. thesis},\ \bibinfo
+   {school} {{Universita Degli Studi, Roma TRE}} (\bibinfo {year}
+  {2018})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Fowler}()}]{fowler}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Fowler}},\ }\href@noop {} {\bibinfo {title} {{The Differential Cross
+  Section}}},\ \bibinfo {note} {{Libre Texts Physics}, visited on
+  03/03/23}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {YAZAKI}(2017)}]{yazaki}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {YAZAKI}},\ }\bibfield  {title} {\bibinfo {title} {How the klein–nishina
+  formula was derived: Based on the sangokan nishina source materials},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Proceedings of the
+  Japan Academy. Series B. Physical and biological sciences}\ }\textbf
+  {\bibinfo {volume} {93}},\ \bibinfo {pages} {399} (\bibinfo {year}
+  {2017})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Boeglin}()}]{comptonFIU}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
+  {Boeglin}},\ }\href@noop {} {\bibinfo {title} {Compton scattering}},\
+  \bibinfo {note} {{Florida International University},
+  \url{https://wanda.fiu.edu/boeglinw/courses/Modern_lab_manual3/Compton_Scattering.html},
+  visited on 02/03/23}\BibitemShut {NoStop}%
+\bibitem [{vcu()}]{vcu}%
+  \BibitemOpen
+  \href@noop {} {\bibinfo {title} {{The Analysis Pulse-Height Spectrometry}}},\
+  \bibinfo {note} {{Virginia Commonwealth University},
+  \url{http://www.people.vcu.edu/~mhcrosthwait/clrs322/Pulseanalysis.htm},
+  visited on 03/03/23}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Jolivette}\ and\ \citenamefont
+  {Rouze}(1994)}]{manual2}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~L.}\ \bibnamefont
+  {Jolivette}}\ and\ \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont
+  {Rouze}},\ }\bibfield  {title} {\bibinfo {title} {Compton scattering, the
+  electron mass, and relativity: A laboratory experiment},\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {American journal of physics}\
+  }\textbf {\bibinfo {volume} {62}},\ \bibinfo {pages} {266} (\bibinfo {year}
+  {1994})}\BibitemShut {NoStop}%
+\end{thebibliography}%

@@ -1,0 +1,5 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'ccdReport.tex.blg'
+[71] biber:340> INFO - === Wed Oct 19, 2022, 19:39:17
+[91] Utils.pm:398> ERROR - Cannot find 'ccdReport.tex.bcf'!
+[91] Biber.pm:135> INFO - ERRORS: 1

@@ -1,0 +1,28 @@
+Data reduction:
+
+Read in the pixel values of each bias into an np array. Find the average value of each pixel across all bias frames. Assign each average pixel to a new file: masterBias.fits
+
+Subtract the pixel values of the masterbias from each flat frame, saving them as new files bFlat_01.fits
+Note this must be done on a pixel by pixel basis.
+
+As before, combine these bFlats to make a masterflat. This must be normalised by diving by the average pixel value in the centre of the array and should have a value of 1 in the centre of the field of view.
+
+This will need to be done for each filter: B, V, Halpha, and clear.
+
+After this we should have 5 files:
+	- masterBias.fits
+	- nMasterFlat_B.fits
+	- nMasterFlat_V.fits
+	- nMasterFlat_Ha.fits
+	- nMasterFlat_C.fits
+	
+With these files we will be able to reduce our images by subtracting the masterBias and dividing by the masterFlat, saving the result as a new file in the Output folder.
+
+OPTIONAL: Upload images to nova.astrometry.net to find the WCS of the image.
+
+-------------------------------------------------------------------------------------------
+
+Analysis:
+
+Aim is to measure the brightness of a source in the image -> Aperture Photometry, using astropy photoutils
+

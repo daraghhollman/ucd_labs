@@ -1,0 +1,4 @@
+lab plan:
+
+do error propagation
+calculate skin depth for each cylinder

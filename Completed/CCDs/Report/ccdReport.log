@@ -1,0 +1,699 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.10.20)  23 OCT 2022 12:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ccdReport.tex
+(./ccdReport.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen148
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count266
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip16
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks18
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks19
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count273
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count274
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count275
+\c@listtotal=\count276
+\c@listcount=\count277
+\c@liststart=\count278
+\c@liststop=\count279
+\c@citecount=\count280
+\c@citetotal=\count281
+\c@multicitecount=\count282
+\c@multicitetotal=\count283
+\c@instcount=\count284
+\c@maxnames=\count285
+\c@minnames=\count286
+\c@maxitems=\count287
+\c@minitems=\count288
+\c@citecounter=\count289
+\c@maxcitecounter=\count290
+\c@savedcitecounter=\count291
+\c@uniquelist=\count292
+\c@uniquename=\count293
+\c@refsection=\count294
+\c@refsegment=\count295
+\c@maxextratitle=\count296
+\c@maxextratitleyear=\count297
+\c@maxextraname=\count298
+\c@maxextradate=\count299
+\c@maxextraalpha=\count300
+\c@abbrvpenalty=\count301
+\c@highnamepenalty=\count302
+\c@lownamepenalty=\count303
+\c@maxparens=\count304
+\c@parenlevel=\count305
+\blx@tempcnta=\count306
+\blx@tempcntb=\count307
+\blx@tempcntc=\count308
+\c@blx@maxsection=\count309
+\c@blx@maxsegment@0=\count310
+\blx@notetype=\count311
+\blx@parenlevel@text=\count312
+\blx@parenlevel@foot=\count313
+\c@blx@sectionciteorder@0=\count314
+\blx@entrysetcounter=\count315
+\blx@biblioinstance=\count316
+\labelnumberwidth=\skip52
+\labelalphawidth=\skip53
+\biblabelsep=\skip54
+\bibitemsep=\skip55
+\bibnamesep=\skip56
+\bibinitsep=\skip57
+\bibparsep=\skip58
+\bibhang=\skip59
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language3
+\c@mincomprange=\count317
+\c@maxcomprange=\count318
+\c@mincompwidth=\count319
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count320
+\c@savedafterword=\count321
+\c@annotator=\count322
+\c@savedannotator=\count323
+\c@author=\count324
+\c@savedauthor=\count325
+\c@bookauthor=\count326
+\c@savedbookauthor=\count327
+\c@commentator=\count328
+\c@savedcommentator=\count329
+\c@editor=\count330
+\c@savededitor=\count331
+\c@editora=\count332
+\c@savededitora=\count333
+\c@editorb=\count334
+\c@savededitorb=\count335
+\c@editorc=\count336
+\c@savededitorc=\count337
+\c@foreword=\count338
+\c@savedforeword=\count339
+\c@holder=\count340
+\c@savedholder=\count341
+\c@introduction=\count342
+\c@savedintroduction=\count343
+\c@namea=\count344
+\c@savednamea=\count345
+\c@nameb=\count346
+\c@savednameb=\count347
+\c@namec=\count348
+\c@savednamec=\count349
+\c@translator=\count350
+\c@savedtranslator=\count351
+\c@shortauthor=\count352
+\c@savedshortauthor=\count353
+\c@shorteditor=\count354
+\c@savedshorteditor=\count355
+\c@labelname=\count356
+\c@savedlabelname=\count357
+\c@institution=\count358
+\c@savedinstitution=\count359
+\c@lista=\count360
+\c@savedlista=\count361
+\c@listb=\count362
+\c@savedlistb=\count363
+\c@listc=\count364
+\c@savedlistc=\count365
+\c@listd=\count366
+\c@savedlistd=\count367
+\c@liste=\count368
+\c@savedliste=\count369
+\c@listf=\count370
+\c@savedlistf=\count371
+\c@location=\count372
+\c@savedlocation=\count373
+\c@organization=\count374
+\c@savedorganization=\count375
+\c@origlocation=\count376
+\c@savedoriglocation=\count377
+\c@origpublisher=\count378
+\c@savedorigpublisher=\count379
+\c@publisher=\count380
+\c@savedpublisher=\count381
+\c@language=\count382
+\c@savedlanguage=\count383
+\c@origlanguage=\count384
+\c@savedoriglanguage=\count385
+\c@pageref=\count386
+\c@savedpageref=\count387
+\shorthandwidth=\skip60
+\shortjournalwidth=\skip61
+\shortserieswidth=\skip62
+\shorttitlewidth=\skip63
+\shortauthorwidth=\skip64
+\shorteditorwidth=\skip65
+\locallabelnumberwidth=\skip66
+\locallabelalphawidth=\skip67
+\localshorthandwidth=\skip68
+\localshortjournalwidth=\skip69
+\localshortserieswidth=\skip70
+\localshorttitlewidth=\skip71
+\localshortauthorwidth=\skip72
+\localshorteditorwidth=\skip73
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count388
+\c@textcitetotal=\count389
+\c@textcitemaxnames=\count390
+\c@biburlbigbreakpenalty=\count391
+\c@biburlbreakpenalty=\count392
+\c@biburlnumpenalty=\count393
+\c@biburlucpenalty=\count394
+\c@biburllcpenalty=\count395
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count396
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count397
+\c@bbx:relatedtotal=\count398
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count399
+\l__pdf_internal_box=\box52
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-01-21 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+))
+Package biblatex Info: Redefining '\supercite' on input line 10.
+\@quotelevel=\count400
+\@quotereset=\count401
+
+(./ccdReport.aux)
+\openout1 = `ccdReport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count402
+\scratchdimen=\dimen157
+\scratchbox=\box53
+\nofMPsegments=\count403
+\nofMParguments=\count404
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count405
+\MPscratchDim=\dimen158
+\MPnumerator=\count406
+\makeMPintoPDFobject=\count407
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `ccdReport.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'ccdReport.bbl' found.
+
+(./ccdReport.bbl)
+Package biblatex Info: Reference section=0 on input line 26.
+Package biblatex Info: Reference segment=0 on input line 26.
+<UCDLogo.png, id=1, 2509.375pt x 2509.375pt>
+File: UCDLogo.png Graphic file (type png)
+<use UCDLogo.png>
+Package pdftex.def Info: UCDLogo.png  used on input line 39.
+(pdftex.def)             Requested size: 200.7541pt x 200.7541pt.
+ [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./UCDLogo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 75--76
+\OT1/cmr/m/n/12 mea-sure in-com-ing light and record its
+ []
+
+<spectrograph_refl-transformed.png, id=10, 1334.9875pt x 1015.795pt>
+File: spectrograph_refl-transformed.png Graphic file (type png)
+<use spectrograph_refl-transformed.png>
+Package pdftex.def Info: spectrograph_refl-transformed.png  used on input line 
+78.
+(pdftex.def)             Requested size: 221.0pt x 168.15694pt.
+[1
+
+
+]
+Underfull \hbox (badness 1546) in paragraph at lines 88--89
+\OT1/cmr/m/n/12 noise which must be ac-counted for to
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 88--89
+\OT1/cmr/m/n/12 and non-uniformities in the de-tec-tor$[]$.
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 88--89
+\OT1/cmr/m/n/12 field im-ages, are uni-formly il-lu-mi-nated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+<ccdDiagram.png, id=22, 4223.78pt x 3131.7pt>
+File: ccdDiagram.png Graphic file (type png)
+<use ccdDiagram.png>
+Package pdftex.def Info: ccdDiagram.png  used on input line 95.
+(pdftex.def)             Requested size: 221.0pt x 163.85762pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]\OT1/cmr/bx/n/14.4 Determining Gain and
+ []
+
+[2 <./spectrograph_refl-transformed.png (PNG copy)> <./ccdDiagram.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+<mercurySpectrum.jpg, id=28, 469.755pt x 321.2pt>
+File: mercurySpectrum.jpg Graphic file (type jpg)
+<use mercurySpectrum.jpg>
+Package pdftex.def Info: mercurySpectrum.jpg  used on input line 121.
+(pdftex.def)             Requested size: 221.0pt x 151.11105pt.
+<mercuryEmission.png, id=29, 977.0904pt x 603.4545pt>
+File: mercuryEmission.png Graphic file (type png)
+<use mercuryEmission.png>
+Package pdftex.def Info: mercuryEmission.png  used on input line 130.
+(pdftex.def)             Requested size: 221.0pt x 136.48962pt.
+[3 <./mercurySpectrum.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+\OT1/cmr/m/n/12 The gain was cal-cu-lated to be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+\OT1/cmr/m/n/12 (1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 58 \OMS/cmsy/m/n/12 ^^F \OT
+1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 74) \OMS/cmsy/m/n/12 ^^B \OT1/c
+mr/m/n/12 10[]$ and read-noise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+<HgPeaks.png, id=34, 812.3148pt x 742.2129pt>
+File: HgPeaks.png Graphic file (type png)
+<use HgPeaks.png>
+Package pdftex.def Info: HgPeaks.png  used on input line 152.
+(pdftex.def)             Requested size: 221.0pt x 201.91774pt.
+<calibration.png, id=35, 788.4657pt x 742.2129pt>
+File: calibration.png Graphic file (type png)
+<use calibration.png>
+Package pdftex.def Info: calibration.png  used on input line 159.
+(pdftex.def)             Requested size: 221.0pt x 208.03337pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./mercuryEmission.png> <./HgPeaks.png>]
+Underfull \hbox (badness 1077) in paragraph at lines 170--171
+\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 40 \OMS/cmsy/m/n/12 ^^F \OT1/cmr/m/n/12 130
+$, where the un-cer-tain-ties on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+<sodiumSpectrum.png, id=41, 821.7099pt x 742.2129pt>
+File: sodiumSpectrum.png Graphic file (type png)
+<use sodiumSpectrum.png>
+Package pdftex.def Info: sodiumSpectrum.png  used on input line 175.
+(pdftex.def)             Requested size: 221.0pt x 199.61871pt.
+<resolutions.png, id=42, 780.516pt x 745.1037pt>
+File: resolutions.png Graphic file (type png)
+<use resolutions.png>
+Package pdftex.def Info: resolutions.png  used on input line 182.
+(pdftex.def)             Requested size: 221.0pt x 210.9697pt.
+<slitWidth.png, id=43, 810.1467pt x 742.2129pt>
+File: slitWidth.png Graphic file (type png)
+<use slitWidth.png>
+Package pdftex.def Info: slitWidth.png  used on input line 189.
+(pdftex.def)             Requested size: 221.0pt x 202.46135pt.
+[5 <./calibration.png>] [6 <./sodiumSpectrum.png> <./resolutions.png> <./slitWi
+dth.png>]
+Underfull \hbox (badness 1590) in paragraph at lines 199--199
+[]\OT1/cmr/m/n/12 Fraser M. \OT1/cmr/m/it/12 CCDs and Spec-troscopy\OT1/cmr/m/n
+/12 .
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 199--199
+[]\OT1/cmr/m/n/12 Australia Tele-scope Na-tional Fa-cil-
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 199--199
+\OT1/cmr/m/n/12 ity. \OT1/cmr/m/it/12 Ob-tain-ing As-tro-nom-i-cal Spec-tra
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 199--199
+\OT1/cmr/m/it/12 - Spec-tro-graphs\OT1/cmr/m/n/12 . \OT1/cmr/m/sc/12 url\OT1/cm
+r/m/n/12 : $\OT1/cmtt/m/n/12 https : / /
+ []
+
+
+Underfull \hbox (badness 4048) in paragraph at lines 199--199
+\OT1/cmtt/m/n/12 spectrographs . html$ \OT1/cmr/m/n/12 (vis-ited on
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 199--199
+[]\OT1/cmr/m/n/12 Dhillon V. \OT1/cmr/m/it/12 Spec-tro-graphs\OT1/cmr/m/n/12 . 
+Sept. 18,
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 199--199
+\OT1/cmtt/m/n/12 astropy . org / ccd -[] reduction -[]
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 199--199
+[]\OT1/cmr/m/n/12 Davidson M. W. \OT1/cmr/m/it/12 Fun-da-men-tals of
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 199--199
+\OT1/cmr/m/it/12 Mer-cury Arc Lamps\OT1/cmr/m/n/12 . \OT1/cmr/m/sc/12 url\OT1/c
+mr/m/n/12 : $\OT1/cmtt/m/n/12 https :
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 199--199
+\OT1/cmtt/m/n/12 edu / articles / lightsources /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+\OT1/cmtt/m/n/12 mercuryarc . html$ \OT1/cmr/m/n/12 (vis-ited on
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 199--199
+\OT1/cmr/m/it/12 Sodium\OT1/cmr/m/n/12 . \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : 
+$\OT1/cmtt/m/n/12 https : / / www .
+ []
+
+[7]
+Underfull \hbox (badness 6910) in paragraph at lines 202--202
+[]\OT1/cmr/bx/n/14.4 Appendix 1 - Python
+ []
+
+[8
+
+] (./ccdReport.aux)
+Package logreq Info: Writing requests to 'ccdReport.run.xml'.
+\openout1 = `ccdReport.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11402 strings out of 480247
+ 216388 string characters out of 5896150
+ 910058 words of memory out of 5000000
+ 29256 multiletter control sequences out of 15000+600000
+ 476978 words of font info for 55 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 60i,8n,68p,1017b,1508s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on ccdReport.pdf (9 pages, 21104523 bytes).
+PDF statistics:
+ 123 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+

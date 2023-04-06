@@ -1,0 +1,151 @@
+%apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+%Control: key (0)
+%Control: author (8) initials jnrlst
+%Control: editor formatted (1) identically to author
+%Control: production of article title (0) allowed
+%Control: page (0) single
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{12}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \enquote  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{https://doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{\citenamefont {Lozano-Parada}\ \emph {et~al.}(2018)\citenamefont
+  {Lozano-Parada}, \citenamefont {Burnham},\ and\ \citenamefont
+  {Machuca~Martinez}}]{parada}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~H.}\ \bibnamefont
+  {Lozano-Parada}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Burnham}},\ and\ \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Machuca~Martinez}},\ }\bibfield  {title} {\bibinfo {title} {Pedagogical
+  approach to the modeling and simulation of oscillating chemical systems with
+  modern software: The brusselator model},\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Journal of chemical education}\ }\textbf
+  {\bibinfo {volume} {95}},\ \bibinfo {pages} {758} (\bibinfo {year}
+  {2018})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Nicolis}\ and\ \citenamefont
+  {Portnow}(1973)}]{nicolis}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Nicolis}}\ and\ \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Portnow}},\ }\bibfield  {title} {{\selectlanguage {English}\bibinfo {title}
+  {Chemical oscillations}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Chemical reviews}\ }\textbf {\bibinfo {volume} {73}},\ \bibinfo
+  {pages} {365} (\bibinfo {year} {1973})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Cupic}\ \emph {et~al.}(2021)\citenamefont {Cupic},
+  \citenamefont {Taylor}, \citenamefont {Horváth}, \citenamefont {Orlik},\
+  and\ \citenamefont {Epstein}}]{oscillationsAdvances}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Z.~D.}\ \bibnamefont
+  {Cupic}}, \bibinfo {author} {\bibfnamefont {A.~F.}\ \bibnamefont {Taylor}},
+  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Horváth}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Orlik}},\ and\ \bibinfo {author}
+  {\bibfnamefont {I.~R.}\ \bibnamefont {Epstein}},\ }\bibfield  {title}
+  {\bibinfo {title} {Editorial: Advances in oscillating reactions},\ }\bibfield
+   {journal} {\bibinfo  {journal} {Frontiers in Chemistry}\ }\textbf {\bibinfo
+  {volume} {9}},\ \href {https://doi.org/10.3389/fchem.2021.690699}
+  {10.3389/fchem.2021.690699} (\bibinfo {year} {2021})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ren}\ \emph {et~al.}(2013)\citenamefont {Ren},
+  \citenamefont {Zhang}, \citenamefont {Gao},\ and\ \citenamefont
+  {Yang}}]{analytical}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Ren}}, \bibinfo {author} {\bibfnamefont {X.}~\bibnamefont {Zhang}}, \bibinfo
+  {author} {\bibfnamefont {J.}~\bibnamefont {Gao}},\ and\ \bibinfo {author}
+  {\bibfnamefont {W.}~\bibnamefont {Yang}},\ }\bibfield  {title} {\bibinfo
+  {title} {The application of oscillating chemical reactions to analytical
+  determinations},\ }\href {https://doi.org/doi:10.2478/s11532-013-0239-y}
+  {\bibfield  {journal} {\bibinfo  {journal} {Open Chemistry}\ }\textbf
+  {\bibinfo {volume} {11}},\ \bibinfo {pages} {1023} (\bibinfo {year}
+  {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ault}\ and\ \citenamefont
+  {Holmgreen}(2003)}]{dynamics}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Ault}}\ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Holmgreen}},\ }\bibfield  {title} {\bibinfo {title} {Dynamics of the
+  brusselator},\ }\href@noop {} {\  (\bibinfo {year} {2003})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Horn}\ and\ \citenamefont
+  {Jackson}(1972)}]{massAction}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Horn}}\ and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Jackson}},\
+  }\bibfield  {title} {{\selectlanguage {English}\bibinfo {title} {General mass
+  action kinetics}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Archive for rational mechanics and analysis}\ }\textbf {\bibinfo {volume}
+  {47}},\ \bibinfo {pages} {81} (\bibinfo {year} {1972})}\BibitemShut {NoStop}%
+\bibitem [{man()}]{manual}%
+  \BibitemOpen
+  \href@noop {} {\emph {\bibinfo {title} {Chemical Oscillations}}},\ \bibinfo
+  {organization} {University College Dublin}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Israel}()}]{eulerError}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~B.}\ \bibnamefont
+  {Israel}},\ }\href@noop {} {\bibinfo {title} {Error analysis of the euler
+  method}},\ \bibinfo {note}
+  {\url{https://personal.math.ubc.ca/~israel/m215/euler2/euler2.html}, visited
+  on 01/02/23}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Dawkins}()}]{paulsNotes}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Dawkins}},\ }\href@noop {} {\bibinfo {title} {Euler's method}},\ \bibinfo
+  {note} {\url{https://tutorial.math.lamar.edu/classes/de/eulersmethod.aspx},
+  visited on 01/02/23, last modified on 16/11/22}\BibitemShut {NoStop}%
+\bibitem [{pyt()}]{python}%
+  \BibitemOpen
+  \href@noop {} {\bibinfo {title} {{Python 3.11.1 Documentation}}},\ \bibinfo
+  {note} {{The Python Software Foundation}, \url{https://docs.python.org/3/},
+  accessed on 08/02/23}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Warburton}()}]{niels}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {N.}~\bibnamefont
+  {Warburton}},\ }\href@noop {} {\bibinfo {title} {{ACM20030: Computational
+  Science - Introduction and Python Programming}}}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Owkes}()}]{owkes}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Owkes}},\ }\href@noop {} {\bibinfo {title} {Error analysis for {Euler's}
+  {Method}}},\ \bibinfo {note} {{Montana State University}}\BibitemShut
+  {NoStop}%
+\end{thebibliography}%

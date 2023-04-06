@@ -1,0 +1,116 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: chemOscillations.aux
+The style file: apsrev4-2.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: chemOscillationsNotes.bib
+Database file #2: chemOscillationsReferences.bib
+control{REVTEX42Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
+control{apsrev42Control}, control.key{N/A}, control.author{08}, control.editor{1}, control.title{0}, control.pages{0}, control.year{1}, control.eprint{N/A}, 
+Warning--jnrlst (dependency: not reversed) set 1
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+Control: key (0) 
+Control: author (8) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (0) allowed
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+"J. High Energy Phys." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"J. High Energ. Phys." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"JHEP" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"Journal of Cosmology and Astroparticle Physics" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"J. Cosmol. Astropart. Phys." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"JCAP" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"Journal of Instrumentation" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"J. Instrum." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"JINST" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"Journal of Statistical Mechanics" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"J. of Stat. Mech." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"J. Stat. Mech.: Theory Exp." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+"JSTAT" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry dynamics
+while executing---line 3515 of file apsrev4-2.bst
+Warning--missing journal in dynamics
+Warning--empty year in manual
+Warning--empty year in eulerError
+Warning--empty year in paulsNotes
+Warning--empty year in python
+Warning--empty year in niels
+Warning--empty year in owkes
+You've used 14 entries,
+            6079 wiz_defined-function locations,
+            1707 strings with 16839 characters,
+and the built_in function-call counts, 10491 in all, are:
+= -- 747
+> -- 208
+< -- 74
++ -- 78
+- -- 64
+* -- 1491
+:= -- 1050
+add.period$ -- 12
+call.type$ -- 14
+change.case$ -- 61
+chr.to.int$ -- 24
+cite$ -- 25
+duplicate$ -- 1041
+empty$ -- 723
+format.name$ -- 116
+if$ -- 2013
+int.to.chr$ -- 1
+int.to.str$ -- 21
+missing$ -- 152
+newline$ -- 88
+num.names$ -- 30
+pop$ -- 481
+preamble$ -- 1
+purify$ -- 54
+quote$ -- 0
+skip$ -- 436
+stack$ -- 0
+substring$ -- 216
+swap$ -- 885
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 10
+type$ -- 166
+warning$ -- 8
+while$ -- 35
+width$ -- 0
+write$ -- 144
+(There were 13 error messages)

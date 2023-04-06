@@ -1,0 +1,313 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{specInst}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5d2e18da58a3d444b91795debefc8eea}{%
+           family={Instruments},
+           familyi={I\bibinitperiod},
+           given={Spectral},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d2e18da58a3d444b91795debefc8eea}
+      \strng{fullhash}{5d2e18da58a3d444b91795debefc8eea}
+      \strng{bibnamehash}{5d2e18da58a3d444b91795debefc8eea}
+      \strng{authorbibnamehash}{5d2e18da58a3d444b91795debefc8eea}
+      \strng{authornamehash}{5d2e18da58a3d444b91795debefc8eea}
+      \strng{authorfullhash}{5d2e18da58a3d444b91795debefc8eea}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is a CCD}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://specinstcameras.com/what-is-a-ccd/
+      \endverb
+      \verb{url}
+      \verb https://specinstcameras.com/what-is-a-ccd/
+      \endverb
+    \endentry
+    \entry{manual}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f9445574198eaec1b13fd1ca36f62d6e}{%
+           family={M.},
+           familyi={M\bibinitperiod},
+           given={Fraser},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{f9445574198eaec1b13fd1ca36f62d6e}
+      \strng{fullhash}{f9445574198eaec1b13fd1ca36f62d6e}
+      \strng{bibnamehash}{f9445574198eaec1b13fd1ca36f62d6e}
+      \strng{authorbibnamehash}{f9445574198eaec1b13fd1ca36f62d6e}
+      \strng{authornamehash}{f9445574198eaec1b13fd1ca36f62d6e}
+      \strng{authorfullhash}{f9445574198eaec1b13fd1ca36f62d6e}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{month}{8}
+      \field{title}{CCDs and Spectroscopy}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{universityPhysics}{book}{}
+      \name{author}{5}{}{%
+        {{hash=cdcb55db9d535bec955f5911f1ac4e59}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Hugh\bibnamedelima D.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=073003dafd6f7a0d40236b25403e4573}{%
+           family={Freedman},
+           familyi={F\bibinitperiod},
+           given={Roger\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a57603fe654f32c05fe27d16b75aa132}{%
+           family={Ford},
+           familyi={F\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a10c47563deb0c0948f04a0a5205dfe5}{%
+           family={Sears},
+           familyi={S\bibinitperiod},
+           given={Francis\bibnamedelima W.},
+           giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=626fd1fc11d5a0ec50578886f434bf8c}{%
+           family={Zemansky},
+           familyi={Z\bibinitperiod},
+           given={Mark\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education Limited}%
+      }
+      \strng{namehash}{c53001454754d8e4488919abe79b97b1}
+      \strng{fullhash}{ca98cc13437826cf9da41066bd6e76aa}
+      \strng{bibnamehash}{c53001454754d8e4488919abe79b97b1}
+      \strng{authorbibnamehash}{c53001454754d8e4488919abe79b97b1}
+      \strng{authornamehash}{c53001454754d8e4488919abe79b97b1}
+      \strng{authorfullhash}{ca98cc13437826cf9da41066bd6e76aa}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sears and Zemansky's university physics: with modern physics}
+      \field{year}{2020}
+    \endentry
+    \entry{atnf}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7964151742c66f084aeaff2b7e72d309}{%
+           family={Facility},
+           familyi={F\bibinitperiod},
+           given={Australia\bibnamedelimb Telescope\bibnamedelima National},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{7964151742c66f084aeaff2b7e72d309}
+      \strng{fullhash}{7964151742c66f084aeaff2b7e72d309}
+      \strng{bibnamehash}{7964151742c66f084aeaff2b7e72d309}
+      \strng{authorbibnamehash}{7964151742c66f084aeaff2b7e72d309}
+      \strng{authornamehash}{7964151742c66f084aeaff2b7e72d309}
+      \strng{authorfullhash}{7964151742c66f084aeaff2b7e72d309}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Obtaining Astronomical Spectra - Spectrographs}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.atnf.csiro.au/outreach/education/senior/astrophysics/spectrographs.html
+      \endverb
+      \verb{url}
+      \verb https://www.atnf.csiro.au/outreach/education/senior/astrophysics/spectrographs.html
+      \endverb
+    \endentry
+    \entry{vik}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c13f375eae7274a7f2ec05fe45b56ac2}{%
+           family={V.},
+           familyi={V\bibinitperiod},
+           given={Dhillon},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c13f375eae7274a7f2ec05fe45b56ac2}
+      \strng{fullhash}{c13f375eae7274a7f2ec05fe45b56ac2}
+      \strng{bibnamehash}{c13f375eae7274a7f2ec05fe45b56ac2}
+      \strng{authorbibnamehash}{c13f375eae7274a7f2ec05fe45b56ac2}
+      \strng{authornamehash}{c13f375eae7274a7f2ec05fe45b56ac2}
+      \strng{authorfullhash}{c13f375eae7274a7f2ec05fe45b56ac2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{18}
+      \field{month}{9}
+      \field{title}{Spectrographs}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.vikdhillon.staff.shef.ac.uk/teaching/phy217/instruments/phy217_inst_spect.html
+      \endverb
+      \verb{url}
+      \verb http://www.vikdhillon.staff.shef.ac.uk/teaching/phy217/instruments/phy217_inst_spect.html
+      \endverb
+    \endentry
+    \entry{maglab}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f8cd07e6b2072f0498f9ea8aafff4e99}{%
+           family={Laboratory},
+           familyi={L\bibinitperiod},
+           given={National\bibnamedelimb High\bibnamedelimb Magnetic\bibnamedelima Field},
+           giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8cd07e6b2072f0498f9ea8aafff4e99}
+      \strng{fullhash}{f8cd07e6b2072f0498f9ea8aafff4e99}
+      \strng{bibnamehash}{f8cd07e6b2072f0498f9ea8aafff4e99}
+      \strng{authorbibnamehash}{f8cd07e6b2072f0498f9ea8aafff4e99}
+      \strng{authornamehash}{f8cd07e6b2072f0498f9ea8aafff4e99}
+      \strng{authorfullhash}{f8cd07e6b2072f0498f9ea8aafff4e99}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{month}{6}
+      \field{title}{Arc Lamp}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nationalmaglab.org/education/magnet-academy/watch-play/interactive/arc-lamp
+      \endverb
+      \verb{url}
+      \verb https://nationalmaglab.org/education/magnet-academy/watch-play/interactive/arc-lamp
+      \endverb
+    \endentry
+    \entry{astropy}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b207f1be8cb8561aaf86c32d6b9ee4a4}{%
+           family={M.},
+           familyi={M\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b207f1be8cb8561aaf86c32d6b9ee4a4}
+      \strng{fullhash}{b207f1be8cb8561aaf86c32d6b9ee4a4}
+      \strng{bibnamehash}{b207f1be8cb8561aaf86c32d6b9ee4a4}
+      \strng{authorbibnamehash}{b207f1be8cb8561aaf86c32d6b9ee4a4}
+      \strng{authornamehash}{b207f1be8cb8561aaf86c32d6b9ee4a4}
+      \strng{authorfullhash}{b207f1be8cb8561aaf86c32d6b9ee4a4}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CCD Reduction and Photemerty Guide}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.astropy.org/ccd-reduction-and-photometry-guide/
+      \endverb
+      \verb{url}
+      \verb https://www.astropy.org/ccd-reduction-and-photometry-guide/
+      \endverb
+    \endentry
+    \entry{zeiss}{online}{}
+      \name{author}{1}{}{%
+        {{hash=28dcb2f9d6f5627e9b845e1b25dd427c}{%
+           family={W.},
+           familyi={W\bibinitperiod},
+           given={Davidson\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{28dcb2f9d6f5627e9b845e1b25dd427c}
+      \strng{fullhash}{28dcb2f9d6f5627e9b845e1b25dd427c}
+      \strng{bibnamehash}{28dcb2f9d6f5627e9b845e1b25dd427c}
+      \strng{authorbibnamehash}{28dcb2f9d6f5627e9b845e1b25dd427c}
+      \strng{authornamehash}{28dcb2f9d6f5627e9b845e1b25dd427c}
+      \strng{authorfullhash}{28dcb2f9d6f5627e9b845e1b25dd427c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentals of Mercury Arc Lamps}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://zeiss-campus.magnet.fsu.edu/articles/lightsources/mercuryarc.html
+      \endverb
+      \verb{url}
+      \verb https://zeiss-campus.magnet.fsu.edu/articles/lightsources/mercuryarc.html
+      \endverb
+    \endentry
+    \entry{uci}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1b43a3dbf9f8b6e393212758435c285a}{%
+           family={University\bibnamedelimb of\bibnamedelima California},
+           familyi={U\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Irvine},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b43a3dbf9f8b6e393212758435c285a}
+      \strng{fullhash}{1b43a3dbf9f8b6e393212758435c285a}
+      \strng{bibnamehash}{1b43a3dbf9f8b6e393212758435c285a}
+      \strng{authorbibnamehash}{1b43a3dbf9f8b6e393212758435c285a}
+      \strng{authornamehash}{1b43a3dbf9f8b6e393212758435c285a}
+      \strng{authorfullhash}{1b43a3dbf9f8b6e393212758435c285a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RWF Sodium}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.chem.uci.edu/~unicorn/249/Handouts/RWFSodium.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.chem.uci.edu/~unicorn/249/Handouts/RWFSodium.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

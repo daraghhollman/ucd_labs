@@ -1,0 +1,8 @@
+Tom's Crypic Notes
+
+Asking why something odd happens at high frequency.
+Skin depth decreases, charges move towards the surface of the sample.
+This creates a potential / electric field in addition to the one from the solenoid.
+
+Definately bring up the work put in to calculate voltage error.
+Speak about the annomalies in the data.
