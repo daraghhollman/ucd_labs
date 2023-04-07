@@ -1,0 +1,92 @@
+%apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+%Control: key (0)
+%Control: author (8) initials jnrlst
+%Control: editor formatted (1) identically to author
+%Control: production of article title (0) allowed
+%Control: page (0) single
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{5}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \enquote  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{https://doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{wis()}]{wisconsin}%
+  \BibitemOpen
+  \href@noop {} {\bibinfo {title} {{Ramsauer-Townsend Effect}}},\ \bibinfo
+  {howpublished} {niversity of Wisconsin
+  \url{https://www.physics.wisc.edu/courses/home/spring2018/407/experiments/ramsauer/ramsauer.pdf}},\
+  \bibinfo {note} {accessed on 07/04/23}\BibitemShut {NoStop}%
+\bibitem [{tex()}]{texas}%
+  \BibitemOpen
+  \href@noop {} {\bibinfo {title} {{Quantum Scattering and a Determination of
+  The Scattering Cross-Section of Xenon Gas in a 2D21 Thyratron Tube}}},\
+  \bibinfo {howpublished} {University of Texas
+  \url{http://wwwrel.ph.utexas.edu/Public/Students/rcrane/quantum/Ramsauer_Townsend/Ramsauer.htm}},\
+  \bibinfo {note} {accessed on 07/04/23}\BibitemShut {NoStop}%
+\bibitem [{san()}]{santaBarbara}%
+  \BibitemOpen
+  \href@noop {} {\bibinfo {title} {{Scattering}}},\ \bibinfo {howpublished} {UC
+  Santa Barbara
+  \url{https://web.physics.ucsb.edu/~fratus/phys103/LN/Scattering.pdf}},\
+  \bibinfo {note} {accessed on 07/04/23}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kukolich}(1968)}]{kukolich}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~G.}\ \bibnamefont
+  {Kukolich}},\ }\bibfield  {title} {\bibinfo {title} {Demonstration of the
+  ramsauer-townsend effect in a xenon thyratron},\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {American journal of physics}\ }\textbf
+  {\bibinfo {volume} {36}},\ \bibinfo {pages} {701} (\bibinfo {year}
+  {1968})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sobhani}\ \emph {et~al.}(2017)\citenamefont
+  {Sobhani}, \citenamefont {Hassanabadi},\ and\ \citenamefont
+  {Chung}}]{sobhani}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Sobhani}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Hassanabadi}},\ and\ \bibinfo {author} {\bibfnamefont {W.~S.}\ \bibnamefont
+  {Chung}},\ }\bibfield  {title} {\bibinfo {title} {Observations of the
+  ramsauer–townsend effect in quaternionic quantum mechanics},\ }\href@noop
+  {} {\bibfield  {journal} {\bibinfo  {journal} {The European physical journal.
+  C, Particles and fields}\ }\textbf {\bibinfo {volume} {77}},\ \bibinfo
+  {pages} {1} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
+\end{thebibliography}%
