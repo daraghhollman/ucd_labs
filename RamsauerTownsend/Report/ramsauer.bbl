@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{6}%
+\begin{thebibliography}{7}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -97,4 +97,13 @@
   {\bibfield  {journal} {\bibinfo  {journal} {American journal of physics}\
   }\textbf {\bibinfo {volume} {39}},\ \bibinfo {pages} {558} (\bibinfo {year}
   {1971})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Vahedi}\ and\ \citenamefont {Nozari}(2012)}]{vahedi}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Vahedi}}\ and\ \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Nozari}},\ }\bibfield  {title} {\bibinfo {title} {The ramsauer-townsend
+  effect in the presence of the minimal length and maximal momentum},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Acta physica
+  Polonica, A}\ }\textbf {\bibinfo {volume} {122}},\ \bibinfo {pages} {38}
+  (\bibinfo {year} {2012})}\BibitemShut {NoStop}%
 \end{thebibliography}%

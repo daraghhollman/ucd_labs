@@ -22,8 +22,6 @@ floatfix
 	urlcolor=black         
 }
 
-\usepackage{listings}
-
 %\usepackage{bibspacing}
 %\setlength{\bibitemsep}{.5\baselineskip plus .05\baselineskip minus .05\baselineskip}
 
@@ -38,6 +36,11 @@ floatfix
 	\email{daragh.hollman@ucdconnect.ie}
 	
 	\date{\today}
+	
+	\begin{abstract}
+	The aims of this report were to investigate the Ramsauer-Townsend effect and determine the electron energy which yields a minimum probability of scattering. The contact potential and the emission electron energy were also determined to add to the accuracy of the measurement. The minimum probability of scattering was determined to be at electron energies of $(1.05 \pm 0.2) \,\sqrt{\text{V}}$. The contact potential was determined to be $(0.2 \pm 0.01) \,\text{V}$ and the emission electron energy was determined to be $(0.11 \pm 0.03) \,\text{V}$.
+	\end{abstract}		
+	
 	\maketitle
 	
 	\section{Introduction}
@@ -77,7 +80,18 @@ floatfix
 		\caption{\label{fig:thyratron}An example of a thyratron used in this experiment \cite{kukolich}.}
 	\end{figure}
 	
-	A discrepancy in the data from the expected outcome is described by Kukolich and elaborated on by Woolsey \cite{kukolich} \cite{woolsey}. This discrepancy exists due to the contact potential and the emission energy of the thermionic electrons from the cathode. The contact potential arises from the shield and cathode being made from different metals which have different work functions. As the shield is made of nickel, it has a higher work function than the barium oxide cathode and hence as the two electrodes are in contact through the gas, there is a net flow of electrons to the shield without any potential \cite{woolsey}. To account for this, a negative potential at the shield is required to balance this flow. Hence the electrons leaving the cathode were affected by a total acceleration voltage of $(V + V_c)$ where $V_c$ is the contact potential between the electrodes. The emission energy of the thermionic electrons must also be accounted for. As the electrons leave the cathode they have a mean initial energy $e\bar{V} \,\text{eV}$ which also must be added to the acceleration voltage. Hence we have a total acceleration voltage of $(V + V_c + \bar{V})$ giving an electron energy of $(V - V_s + V_c + \bar{V})$.
+	A discrepancy in the data from the expected outcome is described by Kukolich and elaborated on by Woolsey \cite{kukolich} \cite{woolsey}. This discrepancy exists due to the contact potential and the emission energy of the thermionic electrons from the cathode. The contact potential arises from the shield and cathode being made from different metals which have different work functions. As the shield is made of nickel, it has a higher work function than the barium oxide cathode and hence as the two electrodes are in contact through the gas, there is a net flow of electrons to the shield without any potential \cite{woolsey}. To account for this, a negative potential at the shield is required to balance this flow. Hence the electrons leaving the cathode were affected by a total acceleration voltage of $(V + V_c)$ where $V_c$ is the contact potential between the electrodes. \\
+	
+	The emission energy of the thermionic electrons must also be accounted for. As the electrons leave the cathode they have a mean initial energy $e\bar{V} \,\text{eV}$ which also must be added to the acceleration voltage. Hence we have a total acceleration voltage of $(V + V_c + \bar{V})$ giving an electron energy of $(V - V_s + V_c + \bar{V})$. Woolsey describes the number of electrons with energy $\epsilon$ to be proportional to $\exp{\left( \frac{-\epsilon}{kT} \right)}$ \cite{woolsey}. Therefore for electrons with mean energy $\frac{3}{2}kT$ we have:
+	\begin{equation}
+		N(\epsilon) \propto \exp{\left( \frac{-3 V}{2 \bar{V}} \right)}
+	\end{equation}which gives a current at the shield as follows:	
+	\begin{equation}
+		i = i_0 \exp{\left( \frac{-3 V_\text{accel}}{2 \bar{V}} \right)}
+		\label{eq:slope}
+	\end{equation}where $i_0$ is the current when the acceleration voltage, $V$, is zero.\\
+	
+	Therefore, to measure the probability of scattering as a function of electron momentum we must measure the potential across the plate resistor and across the shield resistor to find the plate and shield currents for a range of accelerating voltages and then repeat this when the thyratron is submerged in liquid nitrogen. To correct for the contact potential and the electron emission energy we must take measurements with the voltage source reversed.
 	
 	\section{Methodology}
 	\subsection{Apparatus Setup}
@@ -91,22 +105,14 @@ floatfix
 	\subsection{Procedure}
 	The electronics were switched on in advance of taking the data to ensure the apparatus was not changing in temperature. Data was first collected for the thyratron at room temperature (xenon pressure $\approx 0.05 \,\text{Torr}$). The acceleration voltage was varied from $0 \,\text{V}$ to $15 \,\text{V}$ starting with steps of $0.1 \,\text{V}$ and changing to larger steps of $0.5 \,\text{V}$ after $2 \,\text{V}$. This ensured that the expected minimum around $1 \,\text{eV}$ in the scattering cross section would be well described. For each step, the acceleration voltage, plate voltage, and shield voltage were measured and recorded along with their respective uncertainties. The apparatus was then cooled using liquid nitrogen to reduce the pressure and the procedure was repeated.\\
 	
-	To account for the contact potential, $V_c$, and the emission energy of the thermionic electrons, $\bar{V}$, an extra measurement is required.\\
-	
-	[UNFINISHED]
-	\begin{equation}
-		i = i_0 \exp{\left( \frac{-3 V_\text{accel}}{2 \bar{V}} \right)}
-		\label{eq:slope}
-	\end{equation}
+	To account for the contact potential, $V_c$, and the emission energy of the thermionic electrons, $\bar{V}$, the voltage generator controlling the acceleration voltage was reversed such to drive the circuit with a negative potential to counteract the electron flow because of the contact potential. The shield current was recorded for voltages between $0 \,\text{V}$ and $-0.3 \,\text{V}$.
 	
 	\section{Results \& Analysis}
-	Present initial results of the minimum point and after include diagram of contact potential and include that to have a final measurement.\\
-	
 	The data recorded for the shield and plate voltage were converted to currents using Ohm's law. The plate currents, $I_p$ and $I_p^\star$, were plotted against the acceleration voltage as shown in figure \ref{fig:plateCurrentGraph}. The uncertainties on the voltages were propagated through Ohm's law to obtain uncertainties on the currents. The uncertainty on the voltage was limited by the accuracy of the multimeter. It is clear in this graph that the scattering is nullified when the thyratron is cooled by liquid nitrogen.\\
 	
 	\begin{figure}
 		\includegraphics[width=\columnwidth]{plateCurrentGraph.png}
-		\caption{\label{fig:plateCurrentGraph}Plate current against the acceleration voltage acting on the electron for both measurements, room temperature and liquid nitrogen cooled. Note that error bars are present but are too small to see.}
+		\caption{\label{fig:plateCurrentGraph}Plate current against the acceleration voltage acting on the electron for both measurements, room temperature and liquid nitrogen cooled. Here the room temperature currents are multiplied by 10 to see them more easily. Note that error bars are present but are too small to see.}
 	\end{figure}
 	
 	Using equation \ref{eq:probability}, the probability of scattering was determined as a function of electron momentum. This is plotted in figure \ref{fig:probabilityOfScattering}. Once again, the uncertainties here are propagated through the relevant equations to yield the uncertainties plotted on the data. Two distinct minima can be seen in the data. The first of which is just below $1 \,\text{eV}$ due to the Ramsauer-Townsed effect, and second at the point of ionisation. The minimum probability of scattering due to the Ramsauer-Townsend effect was determined by fitting an inverted Gaussian function in the range of $0.3 \,\text{V}$ to $1.3 \,\text{V}$. This was done through least squares fitting. The minimum point occurred at $(0.794 \pm 0.002) \,\text{V}$ with the uncertainty being determined by the square root of the diagonal elements of the covariance matrix of this Gaussian fit.\\ 
@@ -116,14 +122,16 @@ floatfix
 		\caption{\label{fig:probabilityOfScattering}The probability of scattering against the electron momentum. Note that this is unadjusted for contact potential and electron initial energy.}
 	\end{figure}
 	
-	To calculate the contact potential and the emission energy of the thermionic electrons, the data from the reverse bias acceleration voltage measurement was plotted in figure \ref{fig:kneeGraph}. $\log{I_s^\star}$ was plotted against the reverse acceleration voltage. We see a straight line which gets steeper after the potential balances that of the contact potential. This turnover point is a measurement of the contact potential. Two exponential lines were fitted using least squares fitting to each portion of the data to determine the intersection point. The contact potential was determined to be $(0.2 \pm 0.01) \,\text{V}$, the uncertainty on which was determined by the method of extremes. $\bar{V}$ can also be determined from this graph. Using equation \ref{eq:slope}, $\bar{V}$ was determined to be $(0.11 \pm 0.03) \,\text{V}$. The calculation of both of these values from the graphs is included in full in appendix A. From these values, a final determination of the electron energy yielding a minimum probability of scattering is at $(1.05 \pm 0.2) \,\sqrt{\text{V}}$.
+	To calculate the contact potential and the emission energy of the thermionic electrons, the data from the reverse acceleration voltage measurement was plotted in figure \ref{fig:kneeGraph}. $\log{I_s^\star}$ was plotted against the reverse acceleration voltage. We see a straight line which gets steeper after the potential balances that of the contact potential. This turnover point is a measurement of the contact potential. Two exponential lines were fitted using least squares fitting to each portion of the data to determine the intersection point. The contact potential was determined to be $(0.2 \pm 0.01) \,\text{V}$, the uncertainty on which was determined by the method of extremes. $\bar{V}$ can also be determined from this graph. Using equation \ref{eq:slope}, $\bar{V}$ was determined to be $(0.11 \pm 0.03) \,\text{V}$. The calculation of both of these values from the graphs is included in full in appendix A. From these values, a final determination of the electron energy yielding a minimum probability of scattering is at $(1.05 \pm 0.2) \,\sqrt{\text{V}}$.
 	
 	\begin{figure}
 		\includegraphics[width=\columnwidth]{kneeGraph.png}
-		\caption{\label{fig:kneeGraph}The shield current against the accelerating voltage in reverse bias. Note that due the lack of a higher precision ammeter, data below $-0.25 \,\text{V}$ could not be measured.}
+		\caption{\label{fig:kneeGraph}The shield current against the accelerating voltage in reverse. Note that due the lack of a higher precision ammeter, data below $-0.25 \,\text{V}$ could not be measured.}
 	\end{figure}
 	
 	\section{Conclusion}
+	The aims of this report were to investigate the Ramsauer-Townsend effect and determine the electron energy which yields a minimum probability of scattering. The contact potential and the emission electron energy were also determined to add to the accuracy of the measurement. The minimum probability of scattering was determined to be at electron energies of $(1.05 \pm 0.2) \,\sqrt{\text{V}}$. This agrees well with the analytical findings of Vahedi \cite{vahedi} and Kukolich \citep{kukolich} that the electron energy should be around $1 \,\text{eV}$. The contact potential was determined to be $(0.2 \pm 0.01) \,\text{V}$ and the emission electron energy was determined to be $(0.11 \pm 0.03) \,\text{V}$.
+		
 		
 	\clearpage
 	\bibliography{ramsauer.bib}% Produces the bibliography via BibTeX.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.4.5)  10 APR 2023 15:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.4.5)  10 APR 2023 22:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -429,79 +429,54 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisrulewidth=\dimen177
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 23.
-
-(/usr/share/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count297
-\lst@gtempboxa=\box72
-\lst@token=\toks28
-\lst@length=\count298
-\lst@currlwidth=\dimen178
-\lst@column=\count299
-\lst@pos=\count300
-\lst@lostspace=\dimen179
-\lst@width=\dimen180
-\lst@newlines=\count301
-\lst@lineno=\count302
-\lst@maxwidth=\dimen181
-
-(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count303
-\lst@skipnumbers=\count304
-\lst@framebox=\box73
-)
-(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2023/02/27 1.9 listings configuration
-))
-Package: listings 2023/02/27 1.9 (Carsten Heinz)
 Class revtex4-2 Info: Unrecognized array package. Please update this document c
-lass! (Proceeding with fingers crossed.) on input line 31.
+lass! (Proceeding with fingers crossed.) on input line 29.
 
 
 Class revtex4-2 Warning: Repair the float package.
 
-Class revtex4-2 Info: cite was not loaded (OK!) on input line 31.
-Class revtex4-2 Info: mcite was not loaded (OK!) on input line 31.
-Class revtex4-2 Info: multicol was not loaded (OK!) on input line 31.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 29.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 29.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 29.
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count305
-\l__pdf_internal_box=\box74
+\l__color_backend_stack_int=\count297
+\l__pdf_internal_box=\box72
 )
 (./ramsauer.aux)
 \openout1 = `ramsauer.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count306
-\scratchdimen=\dimen182
-\scratchbox=\box75
-\nofMPsegments=\count307
-\nofMParguments=\count308
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count309
-\MPscratchDim=\dimen183
-\MPnumerator=\count310
-\makeMPintoPDFobject=\count311
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count298
+\scratchdimen=\dimen178
+\scratchbox=\box73
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen179
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks29
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -520,7 +495,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
 
 (/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 31.
+Package hyperref Info: Link coloring ON on input line 29.
  (./ramsauer.out)
 (./ramsauer.out)
 \@outlinefile=\write4
@@ -528,23 +503,13 @@ Package hyperref Info: Link coloring ON on input line 31.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
-Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count312
-Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 31.
+Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 29.
 \openout3 = `ramsauerNotes.bib'.
-
-
-
-Class revtex4-2 Warning: Assuming \noaffiliation for authors.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 41.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
 
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
@@ -553,93 +518,117 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+Class revtex4-2 Warning: Assuming \noaffiliation for authors.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 44.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
-<hardSphereScattering.png, id=51, 593.21625pt x 378.41376pt>
+<hardSphereScattering.png, id=55, 593.21625pt x 378.41376pt>
 File: hardSphereScattering.png Graphic file (type png)
 <use hardSphereScattering.png>
-Package pdftex.def Info: hardSphereScattering.png  used on input line 50.
+Package pdftex.def Info: hardSphereScattering.png  used on input line 53.
 (pdftex.def)             Requested size: 209.1015pt x 133.38797pt.
 
-Underfull \hbox (badness 1122) in paragraph at lines 54--55
+Underfull \hbox (badness 1122) in paragraph at lines 57--58
 \OT1/cmr/m/n/10 of Schr^^?odinger's equa-tion yields that the scat-ter-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 58.
+(amsmath)                 on input line 61.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./hardSphereScattering.p
 ng>]
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-<thyratron.png, id=89, 361.35pt x 484.81125pt>
+<thyratron.png, id=94, 361.35pt x 484.81125pt>
 File: thyratron.png Graphic file (type png)
 <use thyratron.png>
-Package pdftex.def Info: thyratron.png  used on input line 76.
+Package pdftex.def Info: thyratron.png  used on input line 79.
 (pdftex.def)             Requested size: 159.8985pt x 214.5308pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-<ramsauerCircuit.png, id=96, 419.5675pt x 413.545pt>
-File: ramsauerCircuit.png Graphic file (type png)
-<use ramsauerCircuit.png>
-Package pdftex.def Info: ramsauerCircuit.png  used on input line 87.
-(pdftex.def)             Requested size: 209.1015pt x 206.09679pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
+<ramsauerCircuit.png, id=102, 419.5675pt x 413.545pt>
+File: ramsauerCircuit.png Graphic file (type png)
+<use ramsauerCircuit.png>
+Package pdftex.def Info: ramsauerCircuit.png  used on input line 101.
+(pdftex.def)             Requested size: 209.1015pt x 206.09679pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
-[2 <./thyratron.png> <./ramsauerCircuit.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+[2 <./thyratron.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 107.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 107.
+
+
+Class revtex4-2 Warning: Deferred float stuck during \clearpage processing.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
-<plateCurrentGraph.png, id=108, 419.166pt x 323.7696pt>
+<plateCurrentGraph.png, id=116, 419.166pt x 323.7696pt>
 File: plateCurrentGraph.png Graphic file (type png)
 <use plateCurrentGraph.png>
-Package pdftex.def Info: plateCurrentGraph.png  used on input line 108.
+Package pdftex.def Info: plateCurrentGraph.png  used on input line 114.
 (pdftex.def)             Requested size: 246.0pt x 190.01459pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
-<probabilityOfScattering.png, id=112, 417.7206pt x 320.8788pt>
+<probabilityOfScattering.png, id=120, 417.7206pt x 320.8788pt>
 File: probabilityOfScattering.png Graphic file (type png)
 <use probabilityOfScattering.png>
-Package pdftex.def Info: probabilityOfScattering.png  used on input line 115.
+Package pdftex.def Info: probabilityOfScattering.png  used on input line 121.
 (pdftex.def)             Requested size: 246.0pt x 188.96921pt.
-<kneeGraph.png, id=115, 417.7206pt x 312.2064pt>
+[3 <./ramsauerCircuit.png> <./plateCurrentGraph.png> <./probabilityOfScattering
+.png>]
+<kneeGraph.png, id=132, 417.7206pt x 312.2064pt>
 File: kneeGraph.png Graphic file (type png)
 <use kneeGraph.png>
-Package pdftex.def Info: kneeGraph.png  used on input line 122.
+Package pdftex.def Info: kneeGraph.png  used on input line 128.
 (pdftex.def)             Requested size: 246.0pt x 183.86194pt.
-(./ramsauer.bbl [3 <./plateCurrentGraph.png> <./probabilityOfScattering.png> <.
-/kneeGraph.png>] [4]
+
+Underfull \hbox (badness 1360) in paragraph at lines 133--134
+[]\OT1/cmr/m/n/10 The aims of this re-port were to in-ves-ti-gate the
+ []
+
+(./ramsauer.bbl [4 <./kneeGraph.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 55--59
  []\OT1/cmr/m/n/9 Ramsauer-Townsend Ef-fect, Uni-ver-sity of Wis-con-
  []
@@ -692,41 +681,41 @@ T1/cmr/m/n/9 , ac-
 ) [5]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 135.
+(hyperref)                removing `math shift' on input line 143.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 135.
+(hyperref)                removing `subscript' on input line 143.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 135.
+(hyperref)                removing `math shift' on input line 143.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 135.
+(hyperref)                removing `math shift' on input line 143.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 135.
+(hyperref)                removing `math shift' on input line 143.
 
-<discrepancies.jpg, id=142, 2067.725pt x 3059.43pt>
+<discrepancies.jpg, id=154, 2067.725pt x 3059.43pt>
 File: discrepancies.jpg Graphic file (type jpg)
 <use discrepancies.jpg>
-Package pdftex.def Info: discrepancies.jpg  used on input line 136.
+Package pdftex.def Info: discrepancies.jpg  used on input line 144.
 (pdftex.def)             Requested size: 458.99689pt x 679.09882pt.
 [6 <./discrepancies.jpg>] (./ramsauer.aux)
 Package rerunfilecheck Info: File `ramsauer.out' has not changed.
-(rerunfilecheck)             Checksum: 6BDFAF03141B22EF781F5E69490F8A9D;1688.
+(rerunfilecheck)             Checksum: 6E224E2C66EAB44914F755E6BD941216;1784.
  ) 
 Here is how much of TeX's memory you used:
- 14479 strings out of 476025
- 223551 string characters out of 5796533
- 1878388 words of memory out of 5000000
- 34698 multiletter control sequences out of 15000+600000
+ 13129 strings out of 476025
+ 204051 string characters out of 5796533
+ 1874388 words of memory out of 5000000
+ 33357 multiletter control sequences out of 15000+600000
  525275 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,76p,1262b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,8n,76p,1111b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/
@@ -739,12 +728,12 @@ cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
 r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-
-Output written on ramsauer.pdf (6 pages, 603930 bytes).
+s/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on ramsauer.pdf (6 pages, 618837 bytes).
 PDF statistics:
- 225 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 242 PDF objects out of 1000 (max. 8388607)
+ 185 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 124 words of extra memory for PDF output out of 10000 (max. 10000000)
 
