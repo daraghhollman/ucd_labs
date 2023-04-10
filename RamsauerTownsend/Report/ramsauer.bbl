@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{5}%
+\begin{thebibliography}{6}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -53,7 +53,7 @@
 \bibitem [{wis()}]{wisconsin}%
   \BibitemOpen
   \href@noop {} {\bibinfo {title} {{Ramsauer-Townsend Effect}}},\ \bibinfo
-  {howpublished} {niversity of Wisconsin
+  {howpublished} {University of Wisconsin
   \url{https://www.physics.wisc.edu/courses/home/spring2018/407/experiments/ramsauer/ramsauer.pdf}},\
   \bibinfo {note} {accessed on 07/04/23}\BibitemShut {NoStop}%
 \bibitem [{tex()}]{texas}%
@@ -89,4 +89,12 @@
   {} {\bibfield  {journal} {\bibinfo  {journal} {The European physical journal.
   C, Particles and fields}\ }\textbf {\bibinfo {volume} {77}},\ \bibinfo
   {pages} {1} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Woolsey}(1971)}]{woolsey}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.~A.}\ \bibnamefont
+  {Woolsey}},\ }\bibfield  {title} {\bibinfo {title} {An extension of the
+  ramsauer-townsend experiment in a xenon thyratron},\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {American journal of physics}\
+  }\textbf {\bibinfo {volume} {39}},\ \bibinfo {pages} {558} (\bibinfo {year}
+  {1971})}\BibitemShut {NoStop}%
 \end{thebibliography}%

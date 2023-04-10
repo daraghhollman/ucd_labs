@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.4.5)  7 APR 2023 17:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.4.5)  10 APR 2023 15:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -553,44 +553,95 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
-[]\OT1/cmr/m/n/10 The Ramsauer-Townsend ef-fect de-scribes the
- []
-
-
-Underfull \hbox (badness 6268) in paragraph at lines 46--47
-\OT1/cmr/m/n/10 phonomenon where elec-trons ex-hibit a min-i-mum
- []
-
-
-Underfull \hbox (badness 2573) in paragraph at lines 51--52
-\OT1/cmr/m/n/10 col-lis-sions can-not be used, a quan-tum me-chani-ci-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-
- []
-
-<hardSphereScattering.png, id=43, 593.21625pt x 378.41376pt>
+<hardSphereScattering.png, id=51, 593.21625pt x 378.41376pt>
 File: hardSphereScattering.png Graphic file (type png)
 <use hardSphereScattering.png>
-Package pdftex.def Info: hardSphereScattering.png  used on input line 56.
+Package pdftex.def Info: hardSphereScattering.png  used on input line 50.
 (pdftex.def)             Requested size: 209.1015pt x 133.38797pt.
-(./ramsauer.bbl [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./hardSp
-hereScattering.png>]
+
+Underfull \hbox (badness 1122) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 of Schr^^?odinger's equa-tion yields that the scat-ter-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 58.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./hardSphereScattering.p
+ng>]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+<thyratron.png, id=89, 361.35pt x 484.81125pt>
+File: thyratron.png Graphic file (type png)
+<use thyratron.png>
+Package pdftex.def Info: thyratron.png  used on input line 76.
+(pdftex.def)             Requested size: 159.8985pt x 214.5308pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+<ramsauerCircuit.png, id=96, 419.5675pt x 413.545pt>
+File: ramsauerCircuit.png Graphic file (type png)
+<use ramsauerCircuit.png>
+Package pdftex.def Info: ramsauerCircuit.png  used on input line 87.
+(pdftex.def)             Requested size: 209.1015pt x 206.09679pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+[2 <./thyratron.png> <./ramsauerCircuit.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+<plateCurrentGraph.png, id=108, 419.166pt x 323.7696pt>
+File: plateCurrentGraph.png Graphic file (type png)
+<use plateCurrentGraph.png>
+Package pdftex.def Info: plateCurrentGraph.png  used on input line 108.
+(pdftex.def)             Requested size: 246.0pt x 190.01459pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+<probabilityOfScattering.png, id=112, 417.7206pt x 320.8788pt>
+File: probabilityOfScattering.png Graphic file (type png)
+<use probabilityOfScattering.png>
+Package pdftex.def Info: probabilityOfScattering.png  used on input line 115.
+(pdftex.def)             Requested size: 246.0pt x 188.96921pt.
+<kneeGraph.png, id=115, 417.7206pt x 312.2064pt>
+File: kneeGraph.png Graphic file (type png)
+<use kneeGraph.png>
+Package pdftex.def Info: kneeGraph.png  used on input line 122.
+(pdftex.def)             Requested size: 246.0pt x 183.86194pt.
+(./ramsauer.bbl [3 <./plateCurrentGraph.png> <./probabilityOfScattering.png> <.
+/kneeGraph.png>] [4]
 Underfull \hbox (badness 10000) in paragraph at lines 55--59
- []\OT1/cmr/m/n/9 Ramsauer-Townsend Ef-fect, niver-sity of Wis-con-
+ []\OT1/cmr/m/n/9 Ramsauer-Townsend Ef-fect, Uni-ver-sity of Wis-con-
  []
 
 
@@ -638,33 +689,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--72
 T1/cmr/m/n/9 , ac-
  []
 
-) [2] (./ramsauer.aux)
+) [5]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 135.
+
+<discrepancies.jpg, id=142, 2067.725pt x 3059.43pt>
+File: discrepancies.jpg Graphic file (type jpg)
+<use discrepancies.jpg>
+Package pdftex.def Info: discrepancies.jpg  used on input line 136.
+(pdftex.def)             Requested size: 458.99689pt x 679.09882pt.
+[6 <./discrepancies.jpg>] (./ramsauer.aux)
 Package rerunfilecheck Info: File `ramsauer.out' has not changed.
-(rerunfilecheck)             Checksum: 408079CE73F407FEFB8EA159A02DFB33;1408.
+(rerunfilecheck)             Checksum: 6BDFAF03141B22EF781F5E69490F8A9D;1688.
  ) 
 Here is how much of TeX's memory you used:
- 14402 strings out of 476025
- 222137 string characters out of 5796533
- 1869388 words of memory out of 5000000
- 34646 multiletter control sequences out of 15000+600000
+ 14479 strings out of 476025
+ 223551 string characters out of 5796533
+ 1878388 words of memory out of 5000000
+ 34698 multiletter control sequences out of 15000+600000
  525275 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,76p,869b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,8n,76p,1262b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr
-/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on ramsauer.pdf (2 pages, 227581 bytes).
+amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+
+Output written on ramsauer.pdf (6 pages, 603930 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
- 70 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 225 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
